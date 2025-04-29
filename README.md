@@ -35,5 +35,5 @@ The analysis utilizes Rockbuster's relational database containing information ab
 
 ## Visualizations
 
-Interactive data visualizations were created to present findings to the Management Board. View the complete set of visualizations on# DA_SQL_Rockbuster
-
+Interactive data visualizations were created to present findings to the Management Board.
+View the complete set of visualizations on Tableau Public:
