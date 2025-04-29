@@ -1,4 +1,4 @@
-Write a query to find the top 10 countries for Rockbuster in terms of customer numbers:
+Write a query to find the top 10 countries in terms of customer numbers:
 
 SELECT 
     D.country AS country_name,
