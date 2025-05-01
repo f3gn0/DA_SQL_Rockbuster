@@ -36,4 +36,11 @@ The analysis utilizes Rockbuster's relational database containing information ab
 ## Visualizations
 
 Interactive data visualizations were created to present findings to the Management Board.
-View the complete set of visualizations on Tableau Public:
+View the complete set of visualizations on Tableau Public.
+
+## Disclaimer
+The contents of this project have been created solely for the purpose of this exercise.
+
+All information presented are fictional and intended for educational demonstration only.
+
+This project does not represent real-world data, and should not be interpreted as factual or relied upon for any real-life decision-making.
